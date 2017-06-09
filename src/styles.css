@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+/** Override default style */
+.ui-tree
+{
+    width: 100% !important;
+}
+
+.ui-widget-content {
+    border: 1px solid #98bd7e !important;
+    background: #98bd7e !important;
+    color: #ffffff !important;
+}
+
+.ui-corner-all {
+    border-radius: 0px !important;
+}
+
+.ui-tree .ui-tree-container {
+    overflow: hidden !important;
+}
+
+/*.ui-button {*/
+    /*border: 1px solid #98bd7e !important;*/
+    /*color: #FFFFFF;*/
+    /*background: #98bd7e !important;*/
+    /*transition: background-color .2s;*/
+/*}*/

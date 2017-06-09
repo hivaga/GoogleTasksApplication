@@ -1,0 +1,10 @@
+{
+	"web": {
+		"client_id": "175695150117-voc7brah0rmlv44u10v22k8hc45gp6vi.apps.googleusercontent.com",
+		"project_id": "waes-tasks-list-169713",
+		"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+		"token_uri": "https://accounts.google.com/o/oauth2/token",
+		"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+		"client_secret": "ZNAOpj4amrhPy9RdiKxos8ZD"
+	}
+}
